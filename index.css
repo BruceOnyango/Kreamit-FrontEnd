@@ -33,6 +33,9 @@ aside {
 .nav-link i {
   color: grey;
 }
+img.rounded {
+  border-radius: 70px; /* adjust the value to your desired amount */
+}
 .nav .nav-item .nav-link.active {
     color: purple;
     background-color: white;

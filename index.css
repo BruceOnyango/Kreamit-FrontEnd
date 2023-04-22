@@ -6,7 +6,7 @@ aside {
     position: relative;
     top: 0;
     left: 0;
-    bottom: 0;
+   
     /*border-right: 1px solid ghostwhite; /* add a 1px solid border to the left of the aside element */
     height: 100%; /* make sure the aside takes up the full height of its container */
     padding-left: 50px;
